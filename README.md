@@ -9,4 +9,3 @@ Currently, I’m exploring **Java**, **JavaScript**, **Python** and **Web develo
 
 ### 📊 GitHub Stats  
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hycarol&show_icons=true&theme=tokyonight)
-[![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hycarol)](https://github.com/hycarol/github-readme-stats)
